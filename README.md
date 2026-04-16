@@ -70,7 +70,7 @@ I'm actively looking for my next role. If you're working on something hard and c
 
 > Real systems, real constraints, real production.
 
-**Tatum Robotics — AI Software Engineer** *(Aug 2025 – Present)*
+**Tatum Robotics - AI Software Engineer** *(Aug 2025 – Present)*
 
 Building production AI systems for robotic communication at the intersection of speech, language, and gesture.
 
@@ -79,7 +79,7 @@ Building production AI systems for robotic communication at the intersection of 
 - ⚡ &nbsp;**Post-training quantization (FP32 to INT8)** benchmarked across **GPU (CUDA) vs. CPU latency profiles**, delivering **3x on-device inference speedup, 70% model compression, and <1% accuracy loss**
 - 📉 &nbsp;Redesigned the gesture-to-phrase mapping pipeline, **reducing ASL interpretation latency by 40%** and improving response consistency across varying input conditions
 
-**Crewasis AI — ML Engineer Intern** *(Jan 2025 – Jun 2025)*
+**Crewasis AI - ML Engineer Intern** *(Jan 2025 - Jun 2025)*
 
 Built multimodal ML infrastructure for marketing intelligence at scale across social media platforms.
 
@@ -88,7 +88,7 @@ Built multimodal ML infrastructure for marketing intelligence at scale across so
 - 🔍 &nbsp;Built a **vector search system across 1.6M+ records** integrating **REST APIs (YouTube, Instagram, TikTok)** with **FAISS vector retrieval at sub-3s query latency**, orchestrated with **Kubernetes**
 - 📊 &nbsp;Validated a **29% cost advantage** across **20+ A/B experiments** using **MLflow tracking**, translating results into deployment decisions for senior leadership
 
-**Red Moments Pvt Ltd — Jr. Data Scientist** *(Jun 2022 – May 2023)*
+**Red Moments Pvt Ltd - Jr. Data Scientist** *(Jun 2022 - May 2023)*
 
 Data science and analytics across manufacturing and e-commerce operations in Mumbai.
 
@@ -101,10 +101,10 @@ Data science and analytics across manufacturing and e-commerce operations in Mum
 
 ### 🔬 &nbsp;Selected projects
 
-- 🔍 &nbsp;**[FinSight RAG](https://github.com/Darsh29/FinSight-RAG)** — Hybrid RAG pipeline with **MiniLM embeddings, dense/sparse retrieval, and semantic reranking** over SEC 10-K filings. Benchmarks 7 retrieval strategies via an LLM-as-judge framework. **94% query success · 4.25/5 relevance · 42% latency cut · 40% API cost reduction**
-- 🎵 &nbsp;**[Speech Emotion Recognition](https://github.com/Darsh29/speech-emotion-recognition)** — CNN-LSTM with **MFCC, mel-spectrogram, and chroma feature extraction** on 15K+ audio samples. **90.5% accuracy · 90.4 F1 across 8 classes** · outperformed InceptionV3 baseline by 3% while training 25% faster
-- 🦅 &nbsp;**[Bird Species Classification](https://github.com/Darsh29/Bird-Species-Image-Classification)** — 4 CNN architectures benchmarked on 89,885 images across 100 species. Deep VGG-style CNN vs. InceptionV3 transfer learning. **90.5% accuracy · 90.4 F1**
-- 🧬 &nbsp;**[NeuroDigest AI](https://github.com/Darsh29/NeuroDigest-AI)** — Agentic LLM pipeline using **LangChain reasoning chains** to ingest multi-format sources and generate structured digests
+- 🔍 &nbsp;**[FinSight RAG](https://github.com/Darsh29/FinSight-RAG)** - Hybrid RAG pipeline with **MiniLM embeddings, dense/sparse retrieval, and semantic reranking** over SEC 10-K filings. Benchmarks 7 retrieval strategies via an LLM-as-judge framework. **94% query success · 4.25/5 relevance · 42% latency cut · 40% API cost reduction**
+- 🎵 &nbsp;**[Speech Emotion Recognition](https://github.com/Darsh29/speech-emotion-recognition)** - CNN-LSTM with **MFCC, mel-spectrogram, and chroma feature extraction** on 15K+ audio samples. **90.5% accuracy · 90.4 F1 across 8 classes** · outperformed InceptionV3 baseline by 3% while training 25% faster
+- 🦅 &nbsp;**[Bird Species Classification](https://github.com/Darsh29/Bird-Species-Image-Classification)** - 4 CNN architectures benchmarked on 89,885 images across 100 species. Deep VGG-style CNN vs. InceptionV3 transfer learning. **90.5% accuracy · 90.4 F1**
+- 🧬 &nbsp;**[NeuroDigest AI](https://github.com/Darsh29/NeuroDigest-AI)** - Agentic LLM pipeline using **LangChain reasoning chains** to ingest multi-format sources and generate structured digests
 
 ---
 
