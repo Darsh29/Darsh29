@@ -20,7 +20,7 @@
 
 ---
 
-ML/AI Engineer with 2+ years building production LLM systems, deep learning models, and scalable ML pipelines — delivering **$229K+ verified business impact**. My work spans NLP, Generative AI, RAG architectures, real-time inference, and end-to-end data pipelines across FinTech, robotics, and enterprise analytics.
+ML/AI Engineer with 2+ years building production LLM systems, deep learning models, and scalable ML pipelines, delivering **$229K+ verified business impact**. My work spans NLP, Generative AI, RAG architectures, real-time inference, and end-to-end data pipelines across FinTech, robotics, and enterprise analytics.
 
 I came to ML through Electronics Engineering and realised that hardware teaches you that latency compounds, systems degrade under load, and the gap between a prototype and something production-ready is almost never just a code problem. That mindset is in everything I build.
 
