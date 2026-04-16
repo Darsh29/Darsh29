@@ -6,27 +6,35 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/darshvora.com-f59e0b?style=flat-square&logo=safari&logoColor=white)](https://darshvora.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh-vora29)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darshvora.mk@gmail.com)
-&nbsp;
-[![AWS](https://img.shields.io/badge/AWS_ML_Engineer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://credly.com/badges/467374d6-d82b-4a8f-a137-19381b9bfe12/public_url)
-&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=Darsh29&color=f59e0b&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
-ML/AI Engineer with 2+ years building production LLM systems, deep learning models, and scalable ML pipelines, delivering **$229K+ verified business impact**. My work spans NLP, Generative AI, RAG architectures, real-time inference, and end-to-end data pipelines across FinTech, robotics, and enterprise analytics.
+ML/AI Engineer with 2+ years building production LLM systems, deep learning models, and scalable data pipelines — **$229K+ verified business impact** across robotics, marketing intelligence, and e-commerce. Proficient in Python, PyTorch, and TensorFlow with hands-on experience in GenAI, RAG, end-to-end MLOps, and distributed data engineering.
 
-I came to ML through Electronics Engineering and realised that hardware teaches you that latency compounds, systems degrade under load, and the gap between a prototype and something production-ready is almost never just a code problem. That mindset is in everything I build.
+I came to ML through Electronics Engineering — hardware teaches you that latency compounds, systems degrade under load, and the gap between a prototype and something production-ready is almost never just a code problem. That mindset is in everything I build.
 
-Currently at **Tatum Robotics**: production ASR at <200ms, a 3x edge inference speedup via INT8 quantization, and a text-to-ASL engine covering 3,000+ phrases. Open to **ML Engineering · AI Engineering · Data Science · Data Analytics · Data Engineering** roles.
+Currently at **Tatum Robotics**: production ASR at <200ms, 3x edge inference speedup via INT8 quantization, and a text-to-ASL engine covering 3,000+ phrases.
 
 > *"Always in Beta. Always Compounding."*
+
+---
+
+### 🟢 &nbsp;Open to new opportunities
+
+I'm actively looking for my next role. If you're working on something hard and care about what gets shipped, let's talk.
+
+**Roles I'm targeting:**
+
+![ML Engineer](https://img.shields.io/badge/ML_Engineer-f59e0b?style=flat-square)
+![AI Engineer](https://img.shields.io/badge/AI_Engineer-f59e0b?style=flat-square)
+![Data Scientist](https://img.shields.io/badge/Data_Scientist-3b82f6?style=flat-square)
+![Data Analyst](https://img.shields.io/badge/Data_Analyst-3b82f6?style=flat-square)
+![Data Engineer](https://img.shields.io/badge/Data_Engineer-a78bfa?style=flat-square)
+
+**Industries:** FinTech · HealthTech · AI Infrastructure · Robotics · Enterprise Analytics · AdTech · Legal AI
 
 ---
 
@@ -34,44 +42,56 @@ Currently at **Tatum Robotics**: production ASR at <200ms, a 3x edge inference s
 
 <div align="center">
 
-[![Core Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,kubernetes,aws,gcp,postgres,mongodb&theme=dark&perline=12)](https://skillicons.dev)
+[![Core Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,docker,kubernetes,aws,gcp,azure,postgres&theme=dark&perline=12)](https://skillicons.dev)
+
+[![Data Stack](https://skillicons.dev/icons?i=mongodb,kafka,git,react,typescript,r,redis,mysql&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-`LangChain` &nbsp;`LangGraph` &nbsp;`LlamaIndex` &nbsp;`RAG` &nbsp;`Whisper ASR` &nbsp;`LoRA / QLoRA` &nbsp;`Vector DBs` &nbsp;`Agentic AI` &nbsp;`XGBoost` &nbsp;`LightGBM` &nbsp;`SHAP` &nbsp;`CUDA`
-
-`YOLOv8` &nbsp;`ByteTrack` &nbsp;`MediaPipe` &nbsp;`MLflow` &nbsp;`Airflow` &nbsp;`Kafka` &nbsp;`Terraform` &nbsp;`Spark / PySpark` &nbsp;`dbt` &nbsp;`Snowflake` &nbsp;`Tableau` &nbsp;`Power BI` &nbsp;`Streamlit`
+| Domain | Tools |
+|--------|-------|
+| **GenAI / NLP** | LangChain · LangGraph · LlamaIndex · RAG · Whisper ASR · BERT · LoRA · QLoRA · PEFT · spaCy · NLTK · Vector DBs |
+| **ML / DL** | XGBoost · LightGBM · SHAP · CUDA · CNN · LSTM · RNN · GANs · statsmodels · SciPy · Hugging Face |
+| **Computer Vision** | YOLOv8 · ByteTrack · MediaPipe · ResNet · EfficientNet · Tesseract OCR |
+| **MLOps** | MLflow · Airflow · AWS SageMaker · AWS Lambda · Terraform · CI/CD · FAISS · ChromaDB |
+| **Data Engineering** | Spark · PySpark · dbt · Snowflake · ETL · Kafka · Redis · MySQL · PostgreSQL |
+| **Analytics / BI** | Tableau · Power BI · Looker · Plotly · Streamlit · A/B Testing · Causal Inference · Hypothesis Testing |
 
 </div>
 
 ---
 
-### ⚡ &nbsp;Impact by the numbers
+### ⚡ &nbsp;What I've shipped
 
-| | What | Result |
-|--|------|--------|
-| 💰 | Verified business value generated | **$229K+** |
-| ⚡ | On-device inference speedup (INT8 quantization) | **3x · 70% compression · <1% accuracy loss** |
-| 🚀 | Batch preprocessing throughput (30min → 30sec) | **60x faster · $19K+ saved annually** |
-| 🎙️ | Whisper ASR production latency | **<200ms · 500+ utterances/day · 95%+ accuracy** |
-| 🔍 | RAG query success across 200 SEC 10-K queries | **94% · 4.25/5 relevance · 42% latency cut** |
-| 📦 | A/B experiments validating cost advantage | **29% cost reduction across 20+ experiments** |
-| 🏥 | Inventory reduction driving revenue impact | **$100K annually · 16% reduction** |
-| 📊 | Reporting time improvement (3 days → real-time) | **$30K saved annually** |
+> Numbers from real production systems — not benchmarks, not demos.
+
+**At Tatum Robotics**
+- 🎙️ &nbsp;Architected a Whisper ASR pipeline hitting **<200ms latency on 500+ daily utterances at 95%+ accuracy** — from scratch
+- ⚡ &nbsp;Quantized models FP32 → INT8 via TFLite delivering **3x on-device inference speedup and 70% compression with <1% accuracy loss**
+- 🤟 &nbsp;Built a C# gesture mapping engine enabling real-time ASL translation across **3,000+ phrases and 26 hand configurations**
+
+**At Crewasis AI**
+- 🚀 &nbsp;Scaled batch preprocessing from **30 minutes to 30 seconds — a 60x improvement — saving $19K+ annually**
+- 🔍 &nbsp;Fine-tuned BLIP-2 with LoRA and deployed a multimodal RAG system over **5K+ daily audio, video, and text assets**
+- 📦 &nbsp;Built a vector search system across **1.6M+ records with sub-3s query latency** via FAISS + Kubernetes
+
+**At Red Moments**
+- 📊 &nbsp;Time-series forecasting on **75K+ transactions** improved production planning by **23%**
+- 💰 &nbsp;A/B testing and inventory modeling **generated $100K annually with 16% inventory reduction**
+- ⏱️ &nbsp;Replaced 3-day manual reporting with **real-time Power BI dashboards, saving $30K annually**
 
 ---
 
 ### 🔬 &nbsp;Selected projects
 
-- 🔍 &nbsp;**[FinSight RAG](https://github.com/Darsh29/FinSight-RAG)** — Hybrid RAG pipeline benchmarking 7 retrieval strategies on SEC 10-K filings. MiniLM embeddings + dense/sparse retrieval + semantic reranking → **94% query success · 4.25/5 relevance · 42% latency reduction**
-
-- 🎵 &nbsp;**[Speech Emotion Recognition](https://github.com/Darsh29/speech-emotion-recognition)** — CNN-LSTM with MFCC/mel-spectrogram features on 15K+ audio samples → **90.5% accuracy · 90.4 F1 across 8 classes** · outperformed InceptionV3 baseline by 3%
-
-- 🦅 &nbsp;**[Bird Species Classification](https://github.com/Darsh29/Bird-Species-Image-Classification)** — 4 CNN architectures benchmarked on 89,885 images across 100 species → **Deep VGG-style CNN: 90.5% accuracy · 90.4 F1**
-
-- 🧬 &nbsp;**[NeuroDigest AI](https://github.com/Darsh29/NeuroDigest-AI)** — Agentic LLM pipeline ingesting multi-format sources and generating structured digests via LangChain reasoning chains
+- 🔍 &nbsp;**[FinSight RAG](https://github.com/Darsh29/FinSight-RAG)** — Hybrid RAG pipeline benchmarking 7 retrieval strategies on SEC 10-K filings → **94% query success · 4.25/5 relevance · 42% latency reduction · 40% API cost cut**
+- 🎵 &nbsp;**[Speech Emotion Recognition](https://github.com/Darsh29/speech-emotion-recognition)** — CNN-LSTM with MFCC/mel-spectrogram on 15K+ audio samples → **90.5% accuracy · 90.4 F1 across 8 classes**
+- 🦅 &nbsp;**[Bird Species Classification](https://github.com/Darsh29/Bird-Species-Image-Classification)** — 4 CNN architectures benchmarked on 89,885 images across 100 species → **90.5% accuracy · outperformed InceptionV3 by 3%**
+- 🧬 &nbsp;**[NeuroDigest AI](https://github.com/Darsh29/NeuroDigest-AI)** — Agentic LLM pipeline for multi-format content ingestion and structured digest generation via LangChain
 
 ---
 
@@ -82,6 +102,21 @@ Currently at **Tatum Robotics**: production ASR at <200ms, a 3x edge inference s
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh29&layout=compact&theme=github_dark&hide_border=true&title_color=f59e0b&text_color=9ca3af&bg_color=0d1117&langs_count=8)](https://github.com/Darsh29)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darsh29&theme=github-compact&hide_border=true&bg_color=0d1117&color=f59e0b&line=3b82f6&point=a78bfa&area=true)](https://github.com/Darsh29)
+
+</div>
+
+---
+
+### 🤝 &nbsp;Let's connect
+
+I'm always open to conversations about interesting problems, new opportunities, and the right roles. Reach out through any of the channels below.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/darshvora.com-1a1a1a?style=for-the-badge&logo=safari&logoColor=white)](https://darshvora.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh-vora29)
+[![Email](https://img.shields.io/badge/darshvora.mk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshvora.mk@gmail.com)
+[![AWS Certified](https://img.shields.io/badge/AWS_ML_Engineer-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://credly.com/badges/467374d6-d82b-4a8f-a137-19381b9bfe12/public_url)
 
 </div>
 
