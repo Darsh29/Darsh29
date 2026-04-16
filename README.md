@@ -12,9 +12,9 @@
 
 ---
 
-ML/AI Engineer with 2+ years building production LLM systems, deep learning models, and scalable data pipelines — **$229K+ verified business impact** across robotics, marketing intelligence, and e-commerce. Proficient in Python, PyTorch, and TensorFlow with hands-on experience in GenAI, RAG, end-to-end MLOps, and distributed data engineering.
+ML/AI Engineer with 2+ years building production LLM systems, deep learning models, and scalable data pipelines delivering **$229K+ verified business impact** across robotics, marketing intelligence, and e-commerce. Proficient in Python, PyTorch, and TensorFlow with hands-on experience in GenAI, RAG, end-to-end MLOps, and distributed data engineering.
 
-I came to ML through Electronics Engineering — hardware teaches you that latency compounds, systems degrade under load, and the gap between a prototype and something production-ready is almost never just a code problem. That mindset is in everything I build.
+I came to ML through Electronics Engineering. Hardware teaches you that latency compounds, systems degrade under load, and the gap between a prototype and something production-ready is almost never just a code problem. That mindset is in everything I build.
 
 Currently at **Tatum Robotics**: production ASR at <200ms, 3x edge inference speedup via INT8 quantization, and a text-to-ASL engine covering 3,000+ phrases.
 
@@ -54,44 +54,57 @@ I'm actively looking for my next role. If you're working on something hard and c
 
 | Domain | Tools |
 |--------|-------|
-| **GenAI / NLP** | LangChain · LangGraph · LlamaIndex · RAG · Whisper ASR · BERT · LoRA · QLoRA · PEFT · spaCy · NLTK · Vector DBs |
-| **ML / DL** | XGBoost · LightGBM · SHAP · CUDA · CNN · LSTM · RNN · GANs · statsmodels · SciPy · Hugging Face |
-| **Computer Vision** | YOLOv8 · ByteTrack · MediaPipe · ResNet · EfficientNet · Tesseract OCR |
-| **MLOps** | MLflow · Airflow · AWS SageMaker · AWS Lambda · Terraform · CI/CD · FAISS · ChromaDB |
-| **Data Engineering** | Spark · PySpark · dbt · Snowflake · ETL · Kafka · Redis · MySQL · PostgreSQL |
-| **Analytics / BI** | Tableau · Power BI · Looker · Plotly · Streamlit · A/B Testing · Causal Inference · Hypothesis Testing |
+| **Languages** | Python · C# (.NET) · C++ · R · Go · SQL (PostgreSQL · MySQL) · React · TypeScript · Git |
+| **GenAI / NLP** | LangChain · LangGraph · LlamaIndex · RAG · Whisper ASR · BERT · Transformers · LoRA · QLoRA · PEFT · spaCy · NLTK · Vector DBs · FAISS · ChromaDB |
+| **ML / DL** | PyTorch · TensorFlow · TFLite · Keras · XGBoost · LightGBM · SHAP · CUDA · CNN · LSTM · RNN · GANs · BLIP-2 · statsmodels · SciPy · Hugging Face |
+| **Computer Vision** | YOLOv8 · ByteTrack · MediaPipe · ResNet · EfficientNet · Tesseract OCR · OpenCV |
+| **MLOps / Cloud** | Docker · Kubernetes · MLflow · Airflow · AWS SageMaker · AWS Lambda · Azure · GCP · Terraform · FastAPI · Kafka · CI/CD |
+| **Data Engineering** | Spark · PySpark · dbt · Snowflake · ETL · Redis · MySQL · PostgreSQL · MongoDB |
+| **Analytics / BI** | Tableau · Power BI · Looker · Plotly · Streamlit · A/B Testing · Causal Inference · Hypothesis Testing · Bayesian Methods · Propensity Score Matching |
 
 </div>
 
 ---
 
-### ⚡ &nbsp;What I've shipped
+### ⚡ &nbsp;What I've built and shipped
 
-> Numbers from real production systems — not benchmarks, not demos.
+> Real systems, real constraints, real production.
 
-**At Tatum Robotics**
-- 🎙️ &nbsp;Architected a Whisper ASR pipeline hitting **<200ms latency on 500+ daily utterances at 95%+ accuracy** — from scratch
-- ⚡ &nbsp;Quantized models FP32 → INT8 via TFLite delivering **3x on-device inference speedup and 70% compression with <1% accuracy loss**
-- 🤟 &nbsp;Built a C# gesture mapping engine enabling real-time ASL translation across **3,000+ phrases and 26 hand configurations**
+**Tatum Robotics — AI Software Engineer** *(Aug 2025 – Present)*
 
-**At Crewasis AI**
-- 🚀 &nbsp;Scaled batch preprocessing from **30 minutes to 30 seconds — a 60x improvement — saving $19K+ annually**
-- 🔍 &nbsp;Fine-tuned BLIP-2 with LoRA and deployed a multimodal RAG system over **5K+ daily audio, video, and text assets**
-- 📦 &nbsp;Built a vector search system across **1.6M+ records with sub-3s query latency** via FAISS + Kubernetes
+Building production AI systems for robotic communication at the intersection of speech, language, and gesture.
 
-**At Red Moments**
-- 📊 &nbsp;Time-series forecasting on **75K+ transactions** improved production planning by **23%**
-- 💰 &nbsp;A/B testing and inventory modeling **generated $100K annually with 16% inventory reduction**
-- ⏱️ &nbsp;Replaced 3-day manual reporting with **real-time Power BI dashboards, saving $30K annually**
+- 🎙️ &nbsp;**Whisper ASR pipeline** containerized with **CI/CD version control** and automated quality validation, processing **500+ daily utterances at 95%+ accuracy and <200ms latency**
+- 🤟 &nbsp;**Text-to-ASL translation engine** on a **C# (.NET) backend**, mapping 3,000+ phrases to 26 hand configurations across diverse signing contexts via a gesture mapping engine
+- ⚡ &nbsp;**Post-training quantization (FP32 to INT8)** benchmarked across **GPU (CUDA) vs. CPU latency profiles**, delivering **3x on-device inference speedup, 70% model compression, and <1% accuracy loss**
+- 📉 &nbsp;Redesigned the gesture-to-phrase mapping pipeline, **reducing ASL interpretation latency by 40%** and improving response consistency across varying input conditions
+
+**Crewasis AI — ML Engineer Intern** *(Jan 2025 – Jun 2025)*
+
+Built multimodal ML infrastructure for marketing intelligence at scale across social media platforms.
+
+- 🧠 &nbsp;**Fine-tuned BLIP-2 with LoRA adapters** and deployed a **multimodal RAG system** over audio, video, and text, containerized with **Docker**, processing **5K+ daily social media assets**
+- 🚀 &nbsp;Scaled **ETL pipeline throughput 60x (30 min to 30 sec)** by deploying **Python workers on AWS Lambda** with **Airflow triggers** and automated data quality checks, saving **$19K+ annually**
+- 🔍 &nbsp;Built a **vector search system across 1.6M+ records** integrating **REST APIs (YouTube, Instagram, TikTok)** with **FAISS vector retrieval at sub-3s query latency**, orchestrated with **Kubernetes**
+- 📊 &nbsp;Validated a **29% cost advantage** across **20+ A/B experiments** using **MLflow tracking**, translating results into deployment decisions for senior leadership
+
+**Red Moments Pvt Ltd — Jr. Data Scientist** *(Jun 2022 – May 2023)*
+
+Data science and analytics across manufacturing and e-commerce operations in Mumbai.
+
+- 📈 &nbsp;Built **time-series forecasting models (Prophet + XGBoost)** on **75K+ transactions** with **SQL-driven feature engineering**, improving production planning by **23%**
+- 💰 &nbsp;Designed **A/B testing frameworks** translating business questions into structured recommendations, generating **$100K annually with 16% inventory reduction**
+- 🏗️ &nbsp;Constructed **ETL pipelines with dbt transformation workflows** and **CI/CD schema validation**, lifting margins by 9% and producing **$80K in revenue**
+- ⏱️ &nbsp;Built **Tableau and Power BI dashboards** with documented KPI definitions for cross-functional stakeholders, **cutting reporting from 3 days to real-time and saving $30K annually**
 
 ---
 
 ### 🔬 &nbsp;Selected projects
 
-- 🔍 &nbsp;**[FinSight RAG](https://github.com/Darsh29/FinSight-RAG)** — Hybrid RAG pipeline benchmarking 7 retrieval strategies on SEC 10-K filings → **94% query success · 4.25/5 relevance · 42% latency reduction · 40% API cost cut**
-- 🎵 &nbsp;**[Speech Emotion Recognition](https://github.com/Darsh29/speech-emotion-recognition)** — CNN-LSTM with MFCC/mel-spectrogram on 15K+ audio samples → **90.5% accuracy · 90.4 F1 across 8 classes**
-- 🦅 &nbsp;**[Bird Species Classification](https://github.com/Darsh29/Bird-Species-Image-Classification)** — 4 CNN architectures benchmarked on 89,885 images across 100 species → **90.5% accuracy · outperformed InceptionV3 by 3%**
-- 🧬 &nbsp;**[NeuroDigest AI](https://github.com/Darsh29/NeuroDigest-AI)** — Agentic LLM pipeline for multi-format content ingestion and structured digest generation via LangChain
+- 🔍 &nbsp;**[FinSight RAG](https://github.com/Darsh29/FinSight-RAG)** — Hybrid RAG pipeline with **MiniLM embeddings, dense/sparse retrieval, and semantic reranking** over SEC 10-K filings. Benchmarks 7 retrieval strategies via an LLM-as-judge framework. **94% query success · 4.25/5 relevance · 42% latency cut · 40% API cost reduction**
+- 🎵 &nbsp;**[Speech Emotion Recognition](https://github.com/Darsh29/speech-emotion-recognition)** — CNN-LSTM with **MFCC, mel-spectrogram, and chroma feature extraction** on 15K+ audio samples. **90.5% accuracy · 90.4 F1 across 8 classes** · outperformed InceptionV3 baseline by 3% while training 25% faster
+- 🦅 &nbsp;**[Bird Species Classification](https://github.com/Darsh29/Bird-Species-Image-Classification)** — 4 CNN architectures benchmarked on 89,885 images across 100 species. Deep VGG-style CNN vs. InceptionV3 transfer learning. **90.5% accuracy · 90.4 F1**
+- 🧬 &nbsp;**[NeuroDigest AI](https://github.com/Darsh29/NeuroDigest-AI)** — Agentic LLM pipeline using **LangChain reasoning chains** to ingest multi-format sources and generate structured digests
 
 ---
 
@@ -109,7 +122,7 @@ I'm actively looking for my next role. If you're working on something hard and c
 
 ### 🤝 &nbsp;Let's connect
 
-I'm always open to conversations about interesting problems, new opportunities, and the right roles. Reach out through any of the channels below.
+I'm always open to conversations about interesting problems and the right opportunities. Reach out through any of the channels below.
 
 <div align="center">
 
