@@ -34,7 +34,7 @@ I'm actively looking for my next role. If you're working on something hard and c
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-3b82f6?style=flat-square)
 ![Data Engineer](https://img.shields.io/badge/Data_Engineer-a78bfa?style=flat-square)
 
-**Industries:** FinTech · HealthTech · AI Infrastructure · Robotics · Enterprise Analytics · AdTech · Legal AI
+**Industries:** Worked across FinTech, Robotics, Marketing and AI. Always looking for new domains to dive in
 
 ---
 
