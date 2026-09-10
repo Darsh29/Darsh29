@@ -16,7 +16,7 @@ ML/AI Engineer with 2+ years building production LLM systems, deep learning mode
 
 I came to ML through Electronics Engineering. Hardware teaches you that latency compounds, systems degrade under load, and the gap between a prototype and something production-ready is almost never just a code problem. That mindset is in everything I build.
 
-Currently at **Tatum Robotics**: production ASR at <200ms, 3x edge inference speedup via INT8 quantization, and a text-to-ASL engine covering 3,000+ phrases.
+Currently at **Capital One**: Real-time fraud detection across 12M daily card transactions, $8.4M annual fraud-loss reduction, 31% fewer false-positive declines, and production ML serving with Kafka, Spark, XGBoost, and EKS.
 
 > *"Always in Beta. Always Compounding."*
 
