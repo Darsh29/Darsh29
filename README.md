@@ -66,39 +66,6 @@ I'm actively looking for my next role. If you're working on something hard and c
 
 ---
 
-### ⚡ &nbsp;What I've built and shipped
-
-> Real systems, real constraints, real production.
-
-**Tatum Robotics - AI Software Engineer** *(Aug 2025 – Present)*
-
-Building production AI systems for robotic communication at the intersection of speech, language, and gesture.
-
-- 🎙️ &nbsp;**Whisper ASR pipeline** containerized with **CI/CD version control** and automated quality validation, processing **500+ daily utterances at 95%+ accuracy and <200ms latency**
-- 🤟 &nbsp;**Text-to-ASL translation engine** on a **C# (.NET) backend**, mapping 3,000+ phrases to 26 hand configurations across diverse signing contexts via a gesture mapping engine
-- ⚡ &nbsp;**Post-training quantization (FP32 to INT8)** benchmarked across **GPU (CUDA) vs. CPU latency profiles**, delivering **3x on-device inference speedup, 70% model compression, and <1% accuracy loss**
-- 📉 &nbsp;Redesigned the gesture-to-phrase mapping pipeline, **reducing ASL interpretation latency by 40%** and improving response consistency across varying input conditions
-
-**Crewasis AI - ML Engineer Intern** *(Jan 2025 - Jun 2025)*
-
-Built multimodal ML infrastructure for marketing intelligence at scale across social media platforms.
-
-- 🧠 &nbsp;**Fine-tuned BLIP-2 with LoRA adapters** and deployed a **multimodal RAG system** over audio, video, and text, containerized with **Docker**, processing **5K+ daily social media assets**
-- 🚀 &nbsp;Scaled **ETL pipeline throughput 60x (30 min to 30 sec)** by deploying **Python workers on AWS Lambda** with **Airflow triggers** and automated data quality checks, saving **$19K+ annually**
-- 🔍 &nbsp;Built a **vector search system across 1.6M+ records** integrating **REST APIs (YouTube, Instagram, TikTok)** with **FAISS vector retrieval at sub-3s query latency**, orchestrated with **Kubernetes**
-- 📊 &nbsp;Validated a **29% cost advantage** across **20+ A/B experiments** using **MLflow tracking**, translating results into deployment decisions for senior leadership
-
-**Red Moments Pvt Ltd - Jr. Data Scientist** *(Jun 2022 - May 2023)*
-
-Data science and analytics across manufacturing and e-commerce operations in Mumbai.
-
-- 📈 &nbsp;Built **time-series forecasting models (Prophet + XGBoost)** on **75K+ transactions** with **SQL-driven feature engineering**, improving production planning by **23%**
-- 💰 &nbsp;Designed **A/B testing frameworks** translating business questions into structured recommendations, generating **$100K annually with 16% inventory reduction**
-- 🏗️ &nbsp;Constructed **ETL pipelines with dbt transformation workflows** and **CI/CD schema validation**, lifting margins by 9% and producing **$80K in revenue**
-- ⏱️ &nbsp;Built **Tableau and Power BI dashboards** with documented KPI definitions for cross-functional stakeholders, **cutting reporting from 3 days to real-time and saving $30K annually**
-
----
-
 ### 🔬 &nbsp;Selected projects
 
 - 🔍 &nbsp;**[FinSight RAG](https://github.com/Darsh29/FinSight-RAG)** - Hybrid RAG pipeline with **MiniLM embeddings, dense/sparse retrieval, and semantic reranking** over SEC 10-K filings. Benchmarks 7 retrieval strategies via an LLM-as-judge framework. **94% query success · 4.25/5 relevance · 42% latency cut · 40% API cost reduction**
