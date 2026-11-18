@@ -14,7 +14,7 @@
 
 ML/AI Engineer with 2+ years building production LLM systems, deep learning models, and scalable data pipelines delivering **$229K+ verified business impact** across robotics, marketing intelligence, and e-commerce. Proficient in Python, PyTorch, and TensorFlow with hands-on experience in GenAI, RAG, end-to-end MLOps, and distributed data engineering.
 
-I came to ML through Electronics Engineering. Hardware teaches you that latency compounds, systems degrade under load, and the gap between a prototype and something production-ready is almost never just a code problem. That mindset is in everything I build.
+I came to ML through Information Technology. Software teaches you that latency compounds, systems degrade under load, and the gap between a prototype and something production-ready is almost never just a code problem. That mindset is in everything I build.
 
 Currently at **Capital One**: Real-time fraud detection across 12M daily card transactions, $8.4M annual fraud-loss reduction, 31% fewer false-positive declines, and production ML serving with Kafka, Spark, XGBoost, and EKS.
 
