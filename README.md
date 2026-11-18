@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=99999&color=F59E0B&center=true&vCenter=true&repeat=false&width=520&height=70&lines=Hi%2C+I'm+Darsh+Vora+%F0%9F%91%8B" alt="Hi, I'm Darsh Vora" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2600&pause=1000&color=9CA3AF&center=true&vCenter=true&width=640&height=38&lines=AI+Software+Engineer+%40+Tatum+Robotics+%C2%B7+Boston%2C+MA;Production+ASR+%C2%B7+Edge+Inference+%C2%B7+RAG+%C2%B7+MLOps;MS+Data+Analytics+Engineering+%C2%B7+Northeastern+%C2%B7+GPA+3.94;AWS+ML+Engineer+Certified+%C2%B7+2%2B+years+production+ML" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2600&pause=1000&color=9CA3AF&center=true&vCenter=true&width=640&height=38&lines=AI+Engineer+%40+Capital+One+%C2%B7+Boston%2C+MA;Production+ASR+%C2%B7+Edge+Inference+%C2%B7+RAG+%C2%B7+MLOps;MS+Data+Science+%C2%B7+Northeastern+%C2%B7+GPA+3.94;AWS+ML+Engineer+Certified+%C2%B7+2%2B+years+production+ML" alt="subtitle" />
 
 <br/>
 
